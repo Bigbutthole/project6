@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "屏幕反色", "屏幕反色\屏幕反色.csproj", "{F62F90D0-71D0-4098-88C8-FF6DED0AC60F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Project1", "Project1\Project1.vbproj", "{BB71EA27-41BA-4322-9DC0-B08B2ADC3FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62F90D0-71D0-4098-88C8-FF6DED0AC60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62F90D0-71D0-4098-88C8-FF6DED0AC60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62F90D0-71D0-4098-88C8-FF6DED0AC60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62F90D0-71D0-4098-88C8-FF6DED0AC60F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB71EA27-41BA-4322-9DC0-B08B2ADC3FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB71EA27-41BA-4322-9DC0-B08B2ADC3FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB71EA27-41BA-4322-9DC0-B08B2ADC3FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB71EA27-41BA-4322-9DC0-B08B2ADC3FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84BA750E-F7AC-4E9D-9B9E-F0CFBD51CCE9}
+	EndGlobalSection
+EndGlobal
